@@ -17,7 +17,7 @@ impressive accuracy rate of 88% on the test dataset.
 for PCOS, using Flask web framework and HTML/CSS for the front-end design.
 
 
-## [Project 2: Real Estate Price Prediction](https://github.com/vashisht099/Real-Estate-Price-Prediction-Bengaluru.git)
+## [Project 2: Real Estate Price Prediction](https://github.com/vashisht099/Portfolio/blob/main/images/Interface_hPP%201.png)
 - Developed and implemented a machine learning model to predict the prices of apartments in Bengaluru.
 - Utilized cross validation techniques to assess model performance and identify potential overfitting. Also, conducted hyperparameter tuning to 
 optimize the model accuracy.
