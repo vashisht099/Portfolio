@@ -42,12 +42,9 @@ present complex data insights effectively.
 </p>
 
 ## [Project 4: LinkedIn Profile Analysis](https://github.com/vashisht099/LinkedIn-Profile-Analysis.git)
-- Conducted an independent data analysis project using employee attendance records to gain insights into working preferences and leave-taking 
-trends, with the aim of informing critical HR decisions.
-- Utilized critical thinking and problem-solving skills to interpret the analysis results, draw conclusions, and propose actionable recommendations 
-for optimizing resource allocation and personnel availability planning.
-- Communicated the findings and recommendations in a clear and concise manner, leveraging data visualization tools such as Power BI to 
-present complex data insights effectively.
+- Developed a comprehensive LinkedIn profile analysis dashboard using Power BI, enabling users to gain insights into their profile performance, connection growth, and activity levels.
+- Conducted in-depth analysis of LinkedIn user data, including profile views, connection trends, and post engagement metrics, to inform data-driven decisions and optimize networking strategies.
+- Leveraged Power BI to create visually compelling and user-friendly reports, empowering clients to track their LinkedIn performance and make informed decisions to enhance their professional brand.
 
 <p align="center">
   <img width="460" height="300" src="https://github.com/vashisht099/LinkedIn-Profile-Analysis/blob/main/Cover_image.png">
